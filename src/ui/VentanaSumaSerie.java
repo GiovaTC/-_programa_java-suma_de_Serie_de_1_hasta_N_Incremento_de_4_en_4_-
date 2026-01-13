@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class VentanaSumaSerie extends JFrame {
-    
+
     private JTextField txtN;
     private JTextArea txtResultado;
 
