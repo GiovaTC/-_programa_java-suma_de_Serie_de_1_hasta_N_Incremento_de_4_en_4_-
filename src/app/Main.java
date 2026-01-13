@@ -8,4 +8,4 @@ public class Main {
             new VentanaSumaSerie().setVisible(true);
         });
     }
-}   
+}
