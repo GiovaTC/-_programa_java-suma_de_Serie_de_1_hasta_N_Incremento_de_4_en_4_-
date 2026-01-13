@@ -26,4 +26,4 @@ public class SumaSerieService {
         }
         return suma;
     }
-}   
+}
