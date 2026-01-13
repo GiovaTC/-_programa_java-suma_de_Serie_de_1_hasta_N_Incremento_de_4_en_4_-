@@ -1,7 +1,9 @@
 # -_programa_java-suma_de_Serie_de_1_hasta_N_Incremento_de_4_en_4_- :. .
 # Programa Java – Suma de Serie de 1 hasta N (Incremento de 4 en 4).  
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88a6764d-dc4e-4edd-883f-bf4413d44bb5" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88a6764d-dc4e-4edd-883f-bf4413d44bb5" />      
+
+<img width="2554" height="1079" alt="image" src="https://github.com/user-attachments/assets/77da4e48-266f-4e9a-b54a-1b276f417526" />    
 
 ## Descripción General
 
